@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Wei's Lab]]></title>
+  <link href="wpwei.github.io/atom.xml" rel="self"/>
+  <link href="wpwei.github.io/"/>
+  <updated>2018-08-04T18:48:08+09:00</updated>
+  <id>wpwei.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[随机游走]]></title>
+    <link href="wpwei.github.io/15331134738380.html"/>
+    <updated>2018-08-01T17:51:13+09:00</updated>
+    <id>wpwei.github.io/15331134738380.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/15331134738380/random_walk.001.jpeg" alt="random_walk.001"/></p>
+
+<p>在逛wikipeida的时候发现了一张很不错的，<a href="https://en.wikipedia.org/wiki/Random_walk#/media/File:Random_walk_2000000.png">Purpy Pupple做的random walk轨迹图</a>。<br/>
+可惜没有高分辨率的，所以自己写了一个脚本生成。</p>
+
+<p><a href="https://github.com/wpwei/playground/tree/master/Random_Walker">Random Walk Image Generator</a></p>
+
+<p>概率真有意思。</p>
+
+]]></content>
+  </entry>
+  
+</feed>
